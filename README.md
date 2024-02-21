@@ -11,16 +11,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/davide-bortoloni/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/davide-bortoloni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/davidebortoloni" target="_blank">
+  <a target="_blank" href="https://www.facebook.com/davidebortoloni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/davidebortoloni/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/davidebortoloni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/3423778378" target="_blank">
+  <a target="_blank" href="https://wa.me/3423778378" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
@@ -61,8 +61,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Gli strumenti che utilizzo</h3>
 
 ###
@@ -85,9 +83,9 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidebortoloni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=davidebortoloni&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=davidebortoloni&theme=dracula&column=2&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
