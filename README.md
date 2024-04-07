@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://davidebortoloni.it/personal-images/pic-profile.jpg"  />
+<img align="left" height="250" src="https://davidebortoloni.it/github-images/pic-profile.jpg"  />
 
 ###
 
